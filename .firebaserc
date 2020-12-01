@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firechat-owncreed": {
+      "hosting": {
+        "firechat": [
+          "firechat-owncreed"
+        ]
+      }
+    }
+  }
+}
